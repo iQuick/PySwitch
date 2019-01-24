@@ -21,6 +21,8 @@ pys -s 3.6.8
 1. 下载 pys.exe 文件到本地
 2. 将 pys.exe 所在目录添加到 path 环境变量中
 3. 配置 config.conf
+4. 为 pys.exe 添加管理员权限，属性 -> 兼容性 -> 以管理员身份运动
+![添加管理员权限](./set_admin.png)
 
 
 ## config.conf
